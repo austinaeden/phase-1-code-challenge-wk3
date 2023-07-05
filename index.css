@@ -5,6 +5,11 @@ body{
     display: none;
 }
 
-#section{
-    display: none;
+#details{
+    font-size: 20px;
 }
+
+#image{
+    width: 400px;
+}
+ 
