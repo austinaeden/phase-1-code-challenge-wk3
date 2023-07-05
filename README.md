@@ -1,9 +1,15 @@
 ## Title
 Code challenge week 3 phase 1
+Flatiron Movie Theater
 
 ## Description
 This is my week 3 code challenge showing how i did the project.
 
+The project allows a person to buy tickets for a movie.
+
+It shows the number of tickets available.
+
+If the the tickets are sold out the user can't buy one
 
 
 ## Technologies Used
@@ -30,6 +36,9 @@ Open the HTML file using the suitable live server.
 
 You should see the project's homepage.
 
+Click on "MENU" the select the movie which you want to buy the tickets for and see if the tickets are available.
+
+If the tickets are available buy the tickets on the "BUY TICKET" button but if there is no ticket available choose another movie and buy the ticket.
 
 If you encounter any issues while using the project, refer to the project's documentation or creat an issue on the projects GitHub repository
 
